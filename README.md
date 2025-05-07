@@ -6,7 +6,7 @@
 
 ### How It Works
 
-![Kubeseal](./images/Kubeseal-Diagram.png)
+![Kubeseal's Diagram](./images/Kubeseal-Diagram.png)
 
 The sealed-secrets controller operates using a sophisticated encryption process:
 
